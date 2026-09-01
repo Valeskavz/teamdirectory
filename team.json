@@ -2,11 +2,13 @@
     "team": [
         {
             "name": "Lisa",
-            "role": "Backend Developer"
+            "role": "Backend Developer",
+            "Department": "IT"
         },
         {
             "name": "Bob",
-            "role": "Frontend Developer"
+            "role": "Frontend Developer",
+            "Department": "IT"
         }
     ]
 }
