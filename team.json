@@ -3,12 +3,14 @@
         {
             "name": "Lisa",
             "role": "Backend Developer",
-            "Department": "IT"
+            "Department": "IT",
+            "Location": "Bloemfontein"
         },
         {
             "name": "Bob",
             "role": "Frontend Developer",
-            "Department": "IT"
+            "Department": "IT",
+            "Location" :"Johannesburg"
         }
     ]
 }
