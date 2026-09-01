@@ -8,3 +8,5 @@ console.log("Team");
 teamData.team.forEach(member => {
     console.log(`${member.name} - ${member.role}`);
 });
+
+console.log(`Total number of team members: ${teamData.team.length}`);
