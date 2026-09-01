@@ -3,3 +3,6 @@ The diff showed that I added a line to display the total number of team members 
 
 # 2nd Diff
 The difference showed that I added a hard-coded line to display the number of developers in the team.
+
+# Task 4
+The feature branch was merged into main using fast-forward merge. I was able to determine this because Git specified in the terminal that it was a  "Fast-forward" merge.
