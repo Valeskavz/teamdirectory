@@ -6,7 +6,7 @@ const teamData = JSON.parse(data);
 console.log("Team");
 
 teamData.team.forEach(member => {
-    console.log(`${member.name} - ${member.role} - ${member.Department}`);
+    console.log(`${member.name} - ${member.role} - ${member.Department} - ${member.Location}`);
 });
 
 console. log("Number of Developers: 2");
