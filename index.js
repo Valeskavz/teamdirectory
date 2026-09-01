@@ -9,4 +9,6 @@ teamData.team.forEach(member => {
     console.log(`${member.name} - ${member.role}`);
 });
 
+console. log("Number of Developers: 2");
+
 console.log(`Total number of team members: ${teamData.team.length}`);
